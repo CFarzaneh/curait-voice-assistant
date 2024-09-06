@@ -7,4 +7,10 @@ python-dotenv
 pyaudio
 soundfile
 SpeechRecognition
+chromadb
+multion
+llama-index
+llama-index-vector-stores-chroma
+macos_speech
+
 git+https://github.com/openai/whisper.git
